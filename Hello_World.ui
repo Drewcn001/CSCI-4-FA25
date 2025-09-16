@@ -1,1 +1,5 @@
-
+H = "Hello"
+#want to bind H to hello
+W = "World"
+#want to bind W to World
+print(H, W)
