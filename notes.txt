@@ -1,0 +1,18 @@
+Array
+Are sequence types & behave like lists
+-constrained objects
+-restricted by type codes
+-type codes are defined
+-homogenous collection
+
+Using an array you can create a list of a basic things ie characters, integers, floating-point numbers, using a type code to idintify what is in the list
+it is a constrained list
+
+List
+-mutable sequences
+-store collection of like things
+-also states more like an array
+-I found in a list grouping things with '' will seperate everthing even if seperated by , but grouping wiht [] will keep them grouped when seperated by ,
+                -under my list P and L
+
+A list is alot like an array but you seem to have more controll over what you can do with the objects of the list and are able to manipulate them more.
