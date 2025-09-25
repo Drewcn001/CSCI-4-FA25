@@ -1,6 +1,8 @@
 H = "Hello"
 W = "World"
 print (H,W)
+
+
 import array as Arr
 A = Arr.array('l',[1,2,3,4])
 
@@ -16,3 +18,7 @@ print(R)
 print (list(A))
 P.reverse()
 print(P)
+
+def f(x):
+     return (x - 2)
+print(f(2), f(4), f(6))

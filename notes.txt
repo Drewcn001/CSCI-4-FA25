@@ -1,12 +1,16 @@
 Array
-Are sequence types & behave like lists
+-Are sequence types & behave like lists
 -constrained objects
 -restricted by type codes
 -type codes are defined
 -homogenous collection
 
 Using an array you can create a list of a basic things ie characters, integers, floating-point numbers, using a type code to idintify what is in the list
-it is a constrained list
+-it is a constrained list
+A collection of simillar things that has some organized manner
+-organized logically or non-logically
+a bunch of similar things that are organized in some manner
+
 
 List
 -mutable sequences
