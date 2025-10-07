@@ -22,3 +22,9 @@ print(P)
 def f(x):
      return (x - 2)
 print(f(2), f(4), f(6))
+
+def main(x,y):
+     print(x,y)
+main("Hello","World")
+
+     
