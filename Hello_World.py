@@ -28,3 +28,8 @@ def main(x,y):
 main("Hello","World")
 
      
+def g(n):
+     return (n*n+n+2)/2
+print (g(3))
+print (g(1), g(0))
+print (g(100), g(67))
