@@ -18,6 +18,7 @@ def pop(q):
 push(q, 4)
 push(q, 3)
 push(q, 5)
+push(q, 6)
 pop(q)
 
 print (len(q))
@@ -53,3 +54,15 @@ push(s,7)
 print (s)
 pop (s)
 print (s)
+
+def tail(s):
+    return s.reverse(), print (s[0]), s.reverse()
+
+tail(s)
+
+
+print (s)
+pop (s)
+print (s)
+
+print (head[s])
