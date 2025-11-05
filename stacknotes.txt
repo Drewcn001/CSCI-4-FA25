@@ -2,5 +2,6 @@ To create a stack I first made a list and called it s
 Then called the first position head
 Next I defined push as inserting an elemnt into the first positon of the list 
 And i defined pop as taking the first positon off 
-I then messed with the push and pop commands to see what the list would do and double check if it does what i wanted it to
+I then messed with the push and pop commands to see what the list would do and double check if it does what i wanted it to do
+
 In short my list will take an element and insert it into the first position and what ever would come out of the list will also come from the first position
