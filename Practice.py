@@ -65,4 +65,4 @@ print (s)
 pop (s)
 print (s)
 
-print (head[s])
+
