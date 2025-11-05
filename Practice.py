@@ -33,7 +33,7 @@ s = []
 head = 0
 
 def push(s, g):
-    s.insert(0, g)
+    s.insert(head, g)
     return g
 
 def pop(s):
