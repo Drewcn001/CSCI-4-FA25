@@ -1,0 +1,3 @@
+Before attempting to create a calculator in oyhton i want to first explain my thought process of how I want it to work.
+Firstly I would like to be able to take two numbers and identify what opperation I want performed and it to output the 
+correct number from that operation.
