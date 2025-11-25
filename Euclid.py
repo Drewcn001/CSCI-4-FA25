@@ -1,11 +1,13 @@
 x = input("enter x cordinate: ")
 y = input("enter y cordinate: ")
-dict_point = [x,y]
-x2 = input("enter 2nd x cordinate: ")
-y2 = input("enter 2nd y cordinate: ")
+o = input("enter 2nd x cordinate: ")
+p = input("enter 2nd y cordinate: ")
+import array
 
-g = [x2,y2]
 
-def euclid_distance (,): 
-    return (h[0]) - (g[0])
-print (euclid_distance)
+array.u[point1[x,y]
+array.point2  = [o,p]
+first_x = point1.list[0]
+second_x = point2_list[0]
+h = second_x - first_x
+print (h)
