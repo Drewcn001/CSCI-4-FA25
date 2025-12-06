@@ -18,13 +18,14 @@ def pop(q):
 push(q, 4)
 push(q, 3)
 push(q, 5)
+push(q, 6)
 pop(q)
 
 print (len(q))
 print (q)
 
 
-
+# stack
 
 
 s = []
@@ -32,7 +33,7 @@ s = []
 head = 0
 
 def push(s, g):
-    s.insert(0, g)
+    s.insert(head, g)
     return g
 
 def pop(s):
@@ -53,3 +54,8 @@ push(s,7)
 print (s)
 pop (s)
 print (s)
+
+
+
+
+
